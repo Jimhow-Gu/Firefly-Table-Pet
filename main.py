@@ -3030,7 +3030,7 @@ class Firefly(QWidget):
             self.restore_previous_animation()
 
     def check_new(self):
-        webbrowser.open("https://github.com/Jimhow-Gu/Firefly-Table-Pet")
+        webbrowser.open("https://github.com/Jimhow-Gu/Firefly-Table-Pet/releases/tag/Firefly")
 
     def AI(self):
         def check_process_running(process_name):
