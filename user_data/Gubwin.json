@@ -1,0 +1,33 @@
+{
+  "uid": "user-731957157",
+  "username": "Gubwin",
+  "userid": "Gubwin",
+  "password": "123456",
+  "birthday": "2008-05-15",
+  "register_time": "2026-05-15 19:49:13",
+  "balance": 20,
+  "banned": false,
+  "redeemed_codes": [],
+  "redeem_history": [
+    "2026-05-15 19:49:13 - 注册账号，获得20橡木蛋糕卷",
+    "2026-05-15 20:11:06 - 使用兑换码 love，获得橡木蛋糕卷 * 10",
+    "2026-05-15 21:30:44 - [系统] 兑换码 love 被管理员 admin 撤销，已扣除 10 个cake",
+    "2026-02-17 17:37:30 - 签到获得 7200 信用点，并获得新春时装[柿柿如意] + 888信用点",
+    "2026-05-17 17:49:53 - 签到获得 7200 信用点"
+  ],
+  "banned_until": null,
+  "credit": 15288,
+  "last_sign_date": "2026-05-17T17:49:53.919860",
+  "cursor_style": "Sam",
+  "pet_size": "small",
+  "owned_clothes": [
+    "normal",
+    "26_Newyear"
+  ],
+  "last_state": "Standby",
+  "mailbox": [],
+  "last_x": 2047,
+  "last_y": 1118,
+  "star_rail_tickets": 0,
+  "last_birthday_greet_year": null
+}

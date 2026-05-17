@@ -1,0 +1,28 @@
+{
+  "uid": "Trailblazer-520131499",
+  "username": "流萤",
+  "userid": "Firefly",
+  "password": "123456",
+  "birthday": "2008-05-15",
+  "register_time": "2026-05-15 19:03:34",
+  "balance": 19,
+  "credit": 135999,
+  "last_sign_date": "2026-05-16",
+  "banned": false,
+  "banned_until": null,
+  "redeemed_codes": [],
+  "redeem_history": [
+    "2026-05-16 01:50:04 - 签到获得 36000 信用点"
+  ],
+  "cursor_style": "Firefly",
+  "pet_size": "small",
+  "owned_clothes": [
+    "normal"
+  ],
+  "mailbox": [],
+  "last_state": "Standby",
+  "last_x": 1920,
+  "last_y": 235,
+  "star_rail_tickets": 0,
+  "last_birthday_greet_year": null
+}
